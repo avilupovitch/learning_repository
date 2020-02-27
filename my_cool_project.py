@@ -1,3 +1,3 @@
 class MyMan:
+    """i am the rocket man!"""
     pass
-i am the rocket man!
